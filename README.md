@@ -9,9 +9,6 @@ Full Stack Developer | Delivering Impact through React.js, .NET, and Python/Djan
 * 🌍  I'm based in Egypt , Cairo
 * ✉️  You can contact me at [yaseenhamdy74@gmail.com](mailto:yaseenhamdy74@gmail.com)
 
-<a href="https://www.github.com/https://github.com/yaseenhamdy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/yaseenhamdy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -23,5 +20,3 @@ src="https://img.shields.io/github/followers/https://github.com/yaseenhamdy?logo
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/https://github.com/yaseenhamdy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yaseen-hamdy/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
